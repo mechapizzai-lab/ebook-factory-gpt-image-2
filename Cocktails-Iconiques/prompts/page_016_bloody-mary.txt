@@ -1,0 +1,46 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 16 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Bloody Mary".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: rouge tomate intense, branche de celeri, brunch moderne.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Bloody Mary"
+Tagline: "Tomate épicée, brunch culte."
+Verre: "Highball"
+
+INGRÉDIENTS
+- 45 ml vodka
+- 90 ml jus de tomate
+- 15 ml jus de citron
+- 2 traits sauce Worcestershire
+- Tabasco
+- Sel et poivre
+- Glace
+
+MÉTHODE
+1. Verser tous les ingredients sur glace.
+2. Remuer doucement.
+3. Gouter l'assaisonnement.
+4. Ajuster epices et citron.
+
+GARNITURE
+Celeri, citron, olive.
+
+ASTUCE FACILE
+Commence avec peu de Tabasco, chacun peut en rajouter.
+
+Page number: "16"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

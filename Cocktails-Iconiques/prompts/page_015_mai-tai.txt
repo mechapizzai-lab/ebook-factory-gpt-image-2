@@ -1,0 +1,45 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 15 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Mai Tai".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: tiki colore, menthe abondante, glace pilee, ambiance exotique.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Mai Tai"
+Tagline: "Tiki, amande, agrumes, rhum."
+Verre: "Tiki ou old fashioned"
+
+INGRÉDIENTS
+- 40 ml rhum ambre
+- 20 ml rhum agricole
+- 25 ml jus de citron vert
+- 15 ml curaçao orange
+- 15 ml sirop d'orgeat
+- Glace pilee
+
+MÉTHODE
+1. Shaker tous les ingredients avec glace.
+2. Verser sur glace pilee.
+3. Melanger legerement.
+4. Ajouter la garniture.
+
+GARNITURE
+Menthe, citron vert et ananas.
+
+ASTUCE FACILE
+Pas de verre tiki ? Un verre bas marche tres bien.
+
+Page number: "15"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

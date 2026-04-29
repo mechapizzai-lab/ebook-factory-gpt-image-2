@@ -1,0 +1,44 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 14 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Whiskey Sour".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: jaune doré, mousse blanche, cerise rouge, verre bas.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Whiskey Sour"
+Tagline: "Acidulé, soyeux, doré."
+Verre: "Old fashioned"
+
+INGRÉDIENTS
+- 50 ml bourbon
+- 25 ml jus de citron
+- 20 ml sirop simple
+- 15 ml blanc d'oeuf optionnel
+- Glace
+
+MÉTHODE
+1. Shaker sans glace si blanc d'oeuf.
+2. Ajouter glace et shaker a nouveau.
+3. Filtrer dans le verre.
+4. Servir sur glace ou sans.
+
+GARNITURE
+Cerise et zeste de citron.
+
+ASTUCE FACILE
+Le blanc d'oeuf est optionnel: il donne juste une mousse plus belle.
+
+Page number: "14"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

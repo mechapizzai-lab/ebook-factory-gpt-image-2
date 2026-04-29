@@ -1,0 +1,44 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 9 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Old Fashioned".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: ambre profond, gros glacon, zeste orange, bois sombre elegant.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Old Fashioned"
+Tagline: "Whiskey, sucre, bitters, élégance pure."
+Verre: "Old fashioned"
+
+INGRÉDIENTS
+- 60 ml bourbon ou rye
+- 1 morceau de sucre
+- 2 traits bitters aromatiques
+- Quelques gouttes d'eau
+- Gros glacon
+
+MÉTHODE
+1. Dissoudre sucre, bitters et eau.
+2. Ajouter le gros glacon.
+3. Verser le whiskey.
+4. Remuer doucement.
+
+GARNITURE
+Zeste d'orange.
+
+ASTUCE FACILE
+Pas besoin de shaker: tout se fait directement au verre.
+
+Page number: "9"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

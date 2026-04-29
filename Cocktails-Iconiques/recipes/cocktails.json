@@ -1,0 +1,222 @@
+[
+  {
+    "id": "mojito",
+    "name": "Mojito",
+    "tagline": "Menthe fraîche, citron vert, bulles glacées.",
+    "glass": "Highball",
+    "ingredients": ["50 ml rhum blanc", "25 ml jus de citron vert", "2 c. a cafe sucre de canne", "8 feuilles de menthe", "Eau gazeuse", "Glace pilee"],
+    "steps": ["Ecraser doucement menthe, sucre et citron vert.", "Ajouter rhum et glace pilee.", "Completer avec eau gazeuse.", "Melanger doucement."],
+    "garnish": "Brin de menthe et quartier de citron vert.",
+    "easy_tip": "Ne broie pas la menthe: presse-la juste pour eviter l'amertume.",
+    "visual": "grand verre givré, menthe vive, citron vert, bulles, condensation"
+  },
+  {
+    "id": "margarita",
+    "name": "Margarita",
+    "tagline": "Citron vert, tequila et bord de sel solaire.",
+    "glass": "Coupe ou verre a margarita",
+    "ingredients": ["50 ml tequila blanco", "25 ml triple sec", "25 ml jus de citron vert", "Sel fin", "Glace"],
+    "steps": ["Givrer le bord du verre avec sel.", "Shaker tequila, triple sec, citron et glace.", "Filtrer dans le verre.", "Servir tres frais."],
+    "garnish": "Rondelle de citron vert.",
+    "easy_tip": "Si c'est trop vif, ajoute 5 ml de sirop d'agave.",
+    "visual": "coupe givree au sel, vert citron, lumiere mexicaine moderne"
+  },
+  {
+    "id": "pina-colada",
+    "name": "Piña Colada",
+    "tagline": "Ananas, coco, vacances instantanées.",
+    "glass": "Verre hurricane",
+    "ingredients": ["50 ml rhum blanc", "90 ml jus d'ananas", "30 ml creme de coco", "15 ml jus de citron vert", "Glace"],
+    "steps": ["Mixer tous les ingredients avec glace.", "Verser dans un grand verre froid.", "Ajuster avec un peu d'ananas si besoin.", "Servir immediatement."],
+    "garnish": "Triangle d'ananas et cerise.",
+    "easy_tip": "Sans blender, shake tres fort avec beaucoup de glace.",
+    "visual": "cocktail cremeux, ananas, coco, decor tropical chic"
+  },
+  {
+    "id": "aperol-spritz",
+    "name": "Aperol Spritz",
+    "tagline": "Orange, petillant, aperitif lumineux.",
+    "glass": "Grand verre a vin",
+    "ingredients": ["90 ml prosecco", "60 ml Aperol", "30 ml eau gazeuse", "Glacons"],
+    "steps": ["Remplir le verre de glacons.", "Verser prosecco puis Aperol.", "Ajouter eau gazeuse.", "Melanger une fois."],
+    "garnish": "Demi-rondelle d'orange.",
+    "easy_tip": "Garde l'ordre prosecco puis Aperol pour une couleur plus homogene.",
+    "visual": "verre ballon orange vif, bulles, tranche d'orange, aperitif chic"
+  },
+  {
+    "id": "espresso-martini",
+    "name": "Espresso Martini",
+    "tagline": "Café intense, mousse velours, énergie du soir.",
+    "glass": "Coupe",
+    "ingredients": ["50 ml vodka", "30 ml espresso froid", "20 ml liqueur de cafe", "10 ml sirop simple", "Glace"],
+    "steps": ["Preparer un espresso et le refroidir.", "Shaker tous les ingredients avec glace.", "Shaker fort pour creer la mousse.", "Filtrer dans une coupe froide."],
+    "garnish": "Trois grains de cafe.",
+    "easy_tip": "Plus tu shakes fort, plus la mousse est belle.",
+    "visual": "coupe sombre brillante, mousse beige, grains de cafe, ambiance nocturne"
+  },
+  {
+    "id": "negroni",
+    "name": "Negroni",
+    "tagline": "Amer, rouge, parfaitement adulte.",
+    "glass": "Old fashioned",
+    "ingredients": ["30 ml gin", "30 ml vermouth rouge", "30 ml bitter rouge", "Gros glacon"],
+    "steps": ["Verser les ingredients dans un verre avec glace.", "Remuer 15 secondes.", "Filtrer ou garder sur gros glacon.", "Servir frais."],
+    "garnish": "Zeste ou tranche d'orange.",
+    "easy_tip": "Utilise un gros glacon pour garder le cocktail net.",
+    "visual": "rouge rubis, gros glacon transparent, zeste orange, bar italien moderne"
+  },
+  {
+    "id": "old-fashioned",
+    "name": "Old Fashioned",
+    "tagline": "Whiskey, sucre, bitters, élégance pure.",
+    "glass": "Old fashioned",
+    "ingredients": ["60 ml bourbon ou rye", "1 morceau de sucre", "2 traits bitters aromatiques", "Quelques gouttes d'eau", "Gros glacon"],
+    "steps": ["Dissoudre sucre, bitters et eau.", "Ajouter le gros glacon.", "Verser le whiskey.", "Remuer doucement."],
+    "garnish": "Zeste d'orange.",
+    "easy_tip": "Pas besoin de shaker: tout se fait directement au verre.",
+    "visual": "ambre profond, gros glacon, zeste orange, bois sombre elegant"
+  },
+  {
+    "id": "moscow-mule",
+    "name": "Moscow Mule",
+    "tagline": "Gingembre, citron vert, cuivre glacé.",
+    "glass": "Mug cuivre ou highball",
+    "ingredients": ["50 ml vodka", "20 ml jus de citron vert", "120 ml ginger beer", "Glacons"],
+    "steps": ["Remplir le verre de glacons.", "Verser vodka et citron vert.", "Completer avec ginger beer.", "Melanger doucement."],
+    "garnish": "Citron vert et menthe.",
+    "easy_tip": "Choisis une ginger beer bien parfumee, c'est elle qui fait tout.",
+    "visual": "mug cuivre givré, citron vert, gingembre, condensation"
+  },
+  {
+    "id": "daiquiri",
+    "name": "Daiquiri",
+    "tagline": "Rhum, citron vert, sucre: le trio parfait.",
+    "glass": "Coupe",
+    "ingredients": ["60 ml rhum blanc", "25 ml jus de citron vert", "15 ml sirop simple", "Glace"],
+    "steps": ["Shaker rhum, citron, sirop et glace.", "Filtrer dans une coupe froide.", "Gouter l'equilibre.", "Servir sans glace."],
+    "garnish": "Fine rondelle de citron vert.",
+    "easy_tip": "S'il pique trop, ajoute 5 ml de sirop.",
+    "visual": "coupe claire, vert pale, minimalisme tropical"
+  },
+  {
+    "id": "dry-martini",
+    "name": "Dry Martini",
+    "tagline": "Gin glacé, vermouth, précision iconique.",
+    "glass": "Verre martini",
+    "ingredients": ["60 ml gin", "10 ml vermouth sec", "Glace"],
+    "steps": ["Remplir un verre a melange de glace.", "Ajouter gin et vermouth.", "Remuer jusqu'a grand froid.", "Filtrer dans un verre froid."],
+    "garnish": "Olive ou zeste de citron.",
+    "easy_tip": "Mets le verre au congelateur 10 minutes avant.",
+    "visual": "verre martini cristallin, olive verte, fond noir chic"
+  },
+  {
+    "id": "cosmopolitan",
+    "name": "Cosmopolitan",
+    "tagline": "Rose, citronné, urbain et glamour.",
+    "glass": "Coupe",
+    "ingredients": ["40 ml vodka citron", "15 ml triple sec", "30 ml jus de cranberry", "15 ml jus de citron vert", "Glace"],
+    "steps": ["Shaker tous les ingredients avec glace.", "Filtrer dans une coupe froide.", "Ajuster citron selon l'acidite.", "Servir net."],
+    "garnish": "Zeste d'orange flambe ou citron vert.",
+    "easy_tip": "Utilise un jus de cranberry pas trop sucre.",
+    "visual": "rose translucide, coupe elegante, lumiere urbaine glamour"
+  },
+  {
+    "id": "whiskey-sour",
+    "name": "Whiskey Sour",
+    "tagline": "Acidulé, soyeux, doré.",
+    "glass": "Old fashioned",
+    "ingredients": ["50 ml bourbon", "25 ml jus de citron", "20 ml sirop simple", "15 ml blanc d'oeuf optionnel", "Glace"],
+    "steps": ["Shaker sans glace si blanc d'oeuf.", "Ajouter glace et shaker a nouveau.", "Filtrer dans le verre.", "Servir sur glace ou sans."],
+    "garnish": "Cerise et zeste de citron.",
+    "easy_tip": "Le blanc d'oeuf est optionnel: il donne juste une mousse plus belle.",
+    "visual": "jaune doré, mousse blanche, cerise rouge, verre bas"
+  },
+  {
+    "id": "mai-tai",
+    "name": "Mai Tai",
+    "tagline": "Tiki, amande, agrumes, rhum.",
+    "glass": "Tiki ou old fashioned",
+    "ingredients": ["40 ml rhum ambre", "20 ml rhum agricole", "25 ml jus de citron vert", "15 ml curaçao orange", "15 ml sirop d'orgeat", "Glace pilee"],
+    "steps": ["Shaker tous les ingredients avec glace.", "Verser sur glace pilee.", "Melanger legerement.", "Ajouter la garniture."],
+    "garnish": "Menthe, citron vert et ananas.",
+    "easy_tip": "Pas de verre tiki ? Un verre bas marche tres bien.",
+    "visual": "tiki colore, menthe abondante, glace pilee, ambiance exotique"
+  },
+  {
+    "id": "bloody-mary",
+    "name": "Bloody Mary",
+    "tagline": "Tomate épicée, brunch culte.",
+    "glass": "Highball",
+    "ingredients": ["45 ml vodka", "90 ml jus de tomate", "15 ml jus de citron", "2 traits sauce Worcestershire", "Tabasco", "Sel et poivre", "Glace"],
+    "steps": ["Verser tous les ingredients sur glace.", "Remuer doucement.", "Gouter l'assaisonnement.", "Ajuster epices et citron."],
+    "garnish": "Celeri, citron, olive.",
+    "easy_tip": "Commence avec peu de Tabasco, chacun peut en rajouter.",
+    "visual": "rouge tomate intense, branche de celeri, brunch moderne"
+  },
+  {
+    "id": "french-75",
+    "name": "French 75",
+    "tagline": "Gin, citron, champagne: chic et pétillant.",
+    "glass": "Flute",
+    "ingredients": ["30 ml gin", "15 ml jus de citron", "10 ml sirop simple", "Champagne ou vin petillant", "Glace"],
+    "steps": ["Shaker gin, citron, sirop et glace.", "Filtrer dans une flute.", "Completer avec champagne.", "Melanger tres doucement."],
+    "garnish": "Zeste de citron.",
+    "easy_tip": "Un bon cremant fonctionne tres bien.",
+    "visual": "flute petillante, bulles fines, zeste citron, elegance francaise"
+  },
+  {
+    "id": "manhattan",
+    "name": "Manhattan",
+    "tagline": "Whiskey, vermouth, cerise noire.",
+    "glass": "Coupe",
+    "ingredients": ["50 ml rye ou bourbon", "25 ml vermouth rouge", "2 traits bitters aromatiques", "Glace"],
+    "steps": ["Verser dans un verre a melange avec glace.", "Remuer 20 secondes.", "Filtrer dans une coupe froide.", "Ajouter la cerise."],
+    "garnish": "Cerise cocktail.",
+    "easy_tip": "Remuer, ne pas shaker, pour garder une texture limpide.",
+    "visual": "ambre rouge sombre, cerise, coupe elegante, skyline nocturne"
+  },
+  {
+    "id": "caipirinha",
+    "name": "Caipirinha",
+    "tagline": "Cachaça, citron vert, sucre brut.",
+    "glass": "Old fashioned",
+    "ingredients": ["60 ml cachaça", "1 citron vert", "2 c. a cafe sucre", "Glace pilee"],
+    "steps": ["Couper le citron vert en quartiers.", "Ecraser avec le sucre.", "Ajouter glace pilee et cachaça.", "Melanger."],
+    "garnish": "Quartier de citron vert.",
+    "easy_tip": "Ecrase surtout la pulpe, pas trop la peau blanche.",
+    "visual": "citron vert eclatant, glace pilee, sucre cristallin"
+  },
+  {
+    "id": "gin-tonic",
+    "name": "Gin Tonic",
+    "tagline": "Simple, frais, toujours élégant.",
+    "glass": "Ballon ou highball",
+    "ingredients": ["50 ml gin", "120 ml tonic", "Gros glacons"],
+    "steps": ["Remplir le verre de gros glacons.", "Verser le gin.", "Ajouter le tonic doucement.", "Remuer une seule fois."],
+    "garnish": "Citron, concombre ou baie de genièvre.",
+    "easy_tip": "Plus les glacons sont gros, moins le cocktail se dilue.",
+    "visual": "verre ballon, bulles, tonic cristallin, garniture fraiche"
+  },
+  {
+    "id": "tequila-sunrise",
+    "name": "Tequila Sunrise",
+    "tagline": "Dégradé orange-rouge, effet coucher de soleil.",
+    "glass": "Highball",
+    "ingredients": ["50 ml tequila", "100 ml jus d'orange", "15 ml grenadine", "Glacons"],
+    "steps": ["Remplir le verre de glace.", "Verser tequila et jus d'orange.", "Ajouter doucement la grenadine.", "Ne pas remuer."],
+    "garnish": "Orange et cerise.",
+    "easy_tip": "Verse la grenadine le long du verre pour obtenir le degradé.",
+    "visual": "degradé orange rouge, verre haut, lumiere coucher de soleil"
+  },
+  {
+    "id": "tom-collins",
+    "name": "Tom Collins",
+    "tagline": "Gin citronné, long, frais et facile.",
+    "glass": "Collins",
+    "ingredients": ["50 ml gin", "25 ml jus de citron", "20 ml sirop simple", "Eau gazeuse", "Glacons"],
+    "steps": ["Verser gin, citron et sirop sur glace.", "Completer avec eau gazeuse.", "Melanger doucement.", "Servir bien frais."],
+    "garnish": "Rondelle de citron et cerise.",
+    "easy_tip": "C'est une limonade au gin: garde-la légère et bien fraîche.",
+    "visual": "verre haut citronne, bulles, tranche citron, fraicheur lumineuse"
+  }
+]

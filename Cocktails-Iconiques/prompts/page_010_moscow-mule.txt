@@ -1,0 +1,43 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 10 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Moscow Mule".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: mug cuivre givré, citron vert, gingembre, condensation.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Moscow Mule"
+Tagline: "Gingembre, citron vert, cuivre glacé."
+Verre: "Mug cuivre ou highball"
+
+INGRÉDIENTS
+- 50 ml vodka
+- 20 ml jus de citron vert
+- 120 ml ginger beer
+- Glacons
+
+MÉTHODE
+1. Remplir le verre de glacons.
+2. Verser vodka et citron vert.
+3. Completer avec ginger beer.
+4. Melanger doucement.
+
+GARNITURE
+Citron vert et menthe.
+
+ASTUCE FACILE
+Choisis une ginger beer bien parfumee, c'est elle qui fait tout.
+
+Page number: "10"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

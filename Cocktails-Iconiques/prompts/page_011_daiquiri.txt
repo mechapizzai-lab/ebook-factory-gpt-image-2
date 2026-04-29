@@ -1,0 +1,43 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 11 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Daiquiri".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: coupe claire, vert pale, minimalisme tropical.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Daiquiri"
+Tagline: "Rhum, citron vert, sucre: le trio parfait."
+Verre: "Coupe"
+
+INGRÉDIENTS
+- 60 ml rhum blanc
+- 25 ml jus de citron vert
+- 15 ml sirop simple
+- Glace
+
+MÉTHODE
+1. Shaker rhum, citron, sirop et glace.
+2. Filtrer dans une coupe froide.
+3. Gouter l'equilibre.
+4. Servir sans glace.
+
+GARNITURE
+Fine rondelle de citron vert.
+
+ASTUCE FACILE
+S'il pique trop, ajoute 5 ml de sirop.
+
+Page number: "11"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

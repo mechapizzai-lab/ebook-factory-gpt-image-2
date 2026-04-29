@@ -1,0 +1,44 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 17 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "French 75".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: flute petillante, bulles fines, zeste citron, elegance francaise.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "French 75"
+Tagline: "Gin, citron, champagne: chic et pétillant."
+Verre: "Flute"
+
+INGRÉDIENTS
+- 30 ml gin
+- 15 ml jus de citron
+- 10 ml sirop simple
+- Champagne ou vin petillant
+- Glace
+
+MÉTHODE
+1. Shaker gin, citron, sirop et glace.
+2. Filtrer dans une flute.
+3. Completer avec champagne.
+4. Melanger tres doucement.
+
+GARNITURE
+Zeste de citron.
+
+ASTUCE FACILE
+Un bon cremant fonctionne tres bien.
+
+Page number: "17"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.

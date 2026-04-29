@@ -1,0 +1,43 @@
+Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.
+
+This is page 6 of a visual cocktail recipe book. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+PAGE CONTENT:
+A gorgeous but achievable cocktail recipe page for "Aperol Spritz".
+The cocktail must look delicious, iconic, and easy to make at home.
+Hero photo: verre ballon orange vif, bulles, tranche d'orange, aperitif chic.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+
+TEXT TO RENDER EXACTLY:
+Title: "Aperol Spritz"
+Tagline: "Orange, petillant, aperitif lumineux."
+Verre: "Grand verre a vin"
+
+INGRÉDIENTS
+- 90 ml prosecco
+- 60 ml Aperol
+- 30 ml eau gazeuse
+- Glacons
+
+MÉTHODE
+1. Remplir le verre de glacons.
+2. Verser prosecco puis Aperol.
+3. Ajouter eau gazeuse.
+4. Melanger une fois.
+
+GARNITURE
+Demi-rondelle d'orange.
+
+ASTUCE FACILE
+Garde l'ordre prosecco puis Aperol pour une couleur plus homogene.
+
+Page number: "6"
+
+LAYOUT:
+Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
+Middle: recipe title and tagline with elegant readable typography.
+Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Typography must be large, readable, and consistent across pages.
+No clutter, no tiny text, no watermark, no extra logos.
