@@ -18,6 +18,14 @@ Mini-manga couleur cyberpunk de 10 pages, prepare pour un export KDP ebook en mi
 4. Placer les images finales dans `pages/` avec les memes noms de page.
 5. Assembler ensuite l'EPUB fixe dans `output/`.
 
+## Sorties generees
+
+- `output/CyberPizza-AI-episode-1.epub`: EPUB fixe source, image-par-page.
+- `output/CyberPizza-AI-episode-1-kdp.epub`: EPUB optimise via Calibre pour KDP ebook.
+- `output/CyberPizza-AI-episode-1-image.pdf`: PDF image-direct de verification.
+- `output/CyberPizza-AI-episode-1-print.pdf`: PDF produit via Calibre.
+- `output/pages_1600x2560/`: pages normalisees au format cible.
+
 ## References a creer avant les pages
 
 - `references/characters/nox_model_sheet.png`
