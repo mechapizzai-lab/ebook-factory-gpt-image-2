@@ -23,6 +23,8 @@ def recipe_prompt(index: int, recipe: dict) -> str:
     steps = "\n".join(f"{i}. {step}" for i, step in enumerate(recipe["steps"], start=1))
     page_number = index + 2
 
+    step_count = len(recipe["steps"])
+
     return f"""
 {STYLE}
 
@@ -35,11 +37,9 @@ A gorgeous but achievable cocktail recipe page for "{recipe['name']}".
 The cocktail must look delicious, iconic, and easy to make at home.
 Hero photo: {recipe['visual']}.
 Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, visual step-by-step strip, small easy tip badge, elegant page number.
-The page must visually show exactly how to make the cocktail with four clear illustrated step panels:
-Step visual 1: show the ingredients and tools being placed on the counter.
-Step visual 2: show the key mixing action for this recipe.
-Step visual 3: show pouring, straining, topping, or building the drink in the glass.
-Step visual 4: show the garnish and finished cocktail ready to serve.
+The page must visually show exactly how to make the cocktail with {step_count} clear illustrated step panels, one panel per method step.
+If a step contains several gestures, split the visual inside that same panel into small sub-actions so nothing important is skipped.
+The reader must understand the recipe by looking at the images, even before reading the text.
 
 TEXT TO RENDER EXACTLY:
 Title: "{recipe['name']}"
@@ -63,7 +63,7 @@ Page number: "{page_number}"
 LAYOUT:
 Top: recipe title, tagline, glass type, and a large appetizing finished cocktail hero image.
 Middle: clean "INGREDIENTS" panel with all ingredients.
-Lower half: four numbered visual step panels, each with a small illustration and the matching method sentence. The reader must understand the recipe by looking at the images.
+Lower half: {step_count} numbered visual step panels, each with a concrete instructional illustration and the matching method sentence. For complex gestures, show mini sub-actions inside the panel.
 Bottom: "GARNITURE" and "ASTUCE FACILE" as small highlighted notes.
 Typography must be large, readable, and consistent across pages.
 No clutter, no tiny text, no watermark, no extra logos. Every step illustration must be concrete and instructional, not decorative.
