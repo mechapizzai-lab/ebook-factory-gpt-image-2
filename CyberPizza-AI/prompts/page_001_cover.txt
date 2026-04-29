@@ -1,0 +1,21 @@
+Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.
+
+This is page 1 of a 10-page color manga. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+RECURRING ELEMENTS ON THIS PAGE:
+- Nox: jeune homme sombre de 19 ans, cheveux noirs mi-longs, yeux rose neon, manteau de livreur noir avec bandes magenta.
+- Slice: petit drone rond en forme de mini four a pizza, chrome et rouge tomate, visage ecran expressif.
+- Neo-Marseille: ville portuaire futuriste sous la pluie, neons magenta et cyan.
+
+PAGE CONTENT:
+Cover illustration. Nox rides an anti-gravity delivery scooter through rainy Neo-Marseille, looking over his shoulder with intense pink eyes. Slice flies beside him. In his delivery bag, a pink crystalline pizza-slice AI core glows. Corporate drones chase in the distance. Dramatic manga cover composition.
+
+TEXT TO RENDER:
+Title: "CyberPizza AI"
+Subtitle: "Episode 1 - La Recette Interdite"
+Author: "MechaPizzAI Lab"
+
+LAYOUT:
+Large title at top, bold readable manga cover lettering, neon pink with cyan shadow. Nox centered in dynamic diagonal pose. Subtitle below title. Author name near bottom. Leave safe margins.

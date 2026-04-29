@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "id": "nox",
+      "name": "Nox",
+      "role": "protagoniste",
+      "file": "characters/nox_model_sheet.png",
+      "description": "Jeune homme sombre de 19 ans, cheveux noirs mi-longs legerement humides, meches tombant autour du visage, yeux rose neon intenses, peau pale, silhouette mince et nerveuse, manteau de livreur noir long avec bandes reflechissantes magenta, pantalon cargo sombre, gants tactiles, air melancolique et determine."
+    },
+    {
+      "id": "lina",
+      "name": "Lina Byte",
+      "role": "alliee technicienne",
+      "file": "characters/lina_model_sheet.png",
+      "description": "Jeune hackeuse de 18 ans, cheveux courts bleu electrique avec undercut, lunettes AR transparentes, veste bomber jaune acide, sourire audacieux, tablette holographique au poignet, energie vive et malicieuse."
+    },
+    {
+      "id": "mara",
+      "name": "Mara Voss",
+      "role": "antagoniste",
+      "file": "characters/mara_model_sheet.png",
+      "description": "Directrice froide du cartel Synapse Crust, femme de 35 ans, cheveux blancs coupes au carre, yeux dorés cybernetiques, costume noir minimaliste avec col haut rouge, protheses fines aux doigts, expression calculatrice."
+    },
+    {
+      "id": "slice",
+      "name": "Slice",
+      "role": "drone mascotte",
+      "file": "characters/slice_model_sheet.png",
+      "description": "Petit drone rond en forme de mini four a pizza, coque chrome et rouge tomate, ecran visage avec yeux expressifs, petites turbines laterales, bras pinces retractables, attitude comique mais loyal."
+    },
+    {
+      "id": "crust_guard",
+      "name": "Gardes Crust",
+      "role": "ennemis recurrents",
+      "file": "characters/crust_guard_model_sheet.png",
+      "description": "Soldats corporatistes anonymes en armure noire brillante, visieres rouges triangulaires, logo de part de pizza stylisee sur l'epaule, matraques electriques, posture rigide et menaçante."
+    }
+  ],
+  "locations": [
+    {
+      "id": "neomarseille",
+      "name": "Neo-Marseille",
+      "file": "locations/neomarseille_reference.png",
+      "description": "Ville portuaire futuriste sous la pluie, ruelles verticales, neons magenta et cyan, cables suspendus, scooters antigravite, enseignes de restaurants holographiques, ambiance cyberpunk mediterraneenne."
+    },
+    {
+      "id": "pizzeria_lab",
+      "name": "Pizzeria-labo CyberPizza",
+      "file": "locations/pizzeria_lab_reference.png",
+      "description": "Pizzeria clandestine cachee dans une ruelle, four a bois augmente, bras robotiques, ecrans de recettes IA, comptoir usé, affiches retro, glow rose venant du noyau CyberPizza AI."
+    }
+  ],
+  "objects": [
+    {
+      "id": "ai_core",
+      "name": "Noyau CyberPizza AI",
+      "file": "objects/ai_core_reference.png",
+      "description": "Petit noyau holographique rose en forme de part de pizza cristalline, circuits lumineux, vapeur numerique, symbole d'intelligence artificielle culinaire."
+    }
+  ]
+}

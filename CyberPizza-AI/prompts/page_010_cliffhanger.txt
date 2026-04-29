@@ -1,0 +1,28 @@
+Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.
+
+This is page 10 of a 10-page color manga. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+RECURRING ELEMENTS:
+- Mara Voss: same design as registry.
+- Nox: same design as registry, seen on surveillance monitor.
+- CyberPizza AI core: pink glow on screens.
+
+PAGE CONTENT:
+Four-panel cliffhanger page.
+Panel 1: Neo-Marseille citizens look up as manipulative food ads dissolve.
+Panel 2: Nox, Lina and Slice stand exhausted in pink light.
+Panel 3: In a dark corporate office, Mara smiles calmly at a hidden console.
+Panel 4: A second AI core lights up, black and violet, shaped like a burnt pizza slice, ominous.
+
+TEXT TO RENDER:
+Citoyen: "J'ai... vraiment faim ?"
+Lina: "On a gagne ?"
+Nox: "Pas encore."
+Mara: "Lancez Dark Crust."
+Final text: "A suivre..."
+Page number: "10"
+
+LAYOUT:
+Last panel should be ominous and high contrast. "A suivre..." large at bottom, readable, dramatic manga ending.

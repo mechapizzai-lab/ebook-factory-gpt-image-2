@@ -1,0 +1,16 @@
+{
+  "title": "CyberPizza AI",
+  "book_type": "manga",
+  "language": "fr",
+  "page_count": 10,
+  "format": "KDP ebook fixed-layout",
+  "dimensions": {
+    "width": 1600,
+    "height": 2560,
+    "aspect_ratio": "10:16 portrait"
+  },
+  "visual_style": "manga couleur cyberpunk, neon noir, line art net, ombres dramatiques, reflets magenta et cyan, arrieres-plans urbains denses, bulles de dialogue lisibles",
+  "style_anchor": "Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.",
+  "summary": "Dans Neo-Marseille, une pizzeria clandestine cache une IA culinaire capable de predire les emotions humaines a travers les recettes. Nox, jeune livreur taciturne aux yeux roses, doit proteger CyberPizza AI quand le cartel industriel Synapse Crust tente de voler son noyau.",
+  "production_rule": "Do not generate final pages before character references are approved. Every story page must reuse the character descriptions in references/registry.json."
+}

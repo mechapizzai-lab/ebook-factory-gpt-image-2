@@ -1,0 +1,28 @@
+Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.
+
+This is page 6 of a 10-page color manga. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+RECURRING ELEMENTS:
+- Nox: same design as registry.
+- Slice: same design as registry.
+- CyberPizza AI core: same design as registry.
+- Neo-Marseille rooftops.
+
+PAGE CONTENT:
+Four-panel emotional page.
+Panel 1: Nox lands on a rooftop, rain and city lights below.
+Panel 2: The AI core floats between his hands, projecting a recipe mandala.
+Panel 3: Close-up of Nox listening, pink eyes softened.
+Panel 4: Wide panel showing the whole city covered in manipulative food advertisements.
+
+TEXT TO RENDER:
+CyberPizza AI: "Synapse Crust ne vend pas des repas."
+CyberPizza AI: "Ils programment la faim."
+Nox: "Et ta recette ?"
+CyberPizza AI: "Elle peut rendre leurs emotions aux humains."
+Page number: "6"
+
+LAYOUT:
+Use softer neon glow, melancholy mood, clear bubbles with enough margin. Recipe mandala should look like a futuristic pizza diagram.

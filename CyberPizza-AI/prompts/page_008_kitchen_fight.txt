@@ -1,0 +1,31 @@
+Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.
+
+This is page 8 of a 10-page color manga. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+RECURRING ELEMENTS:
+- Nox: same design as registry.
+- Lina Byte: same design as registry.
+- Gardes Crust: same armor design.
+- CyberPizza AI core.
+
+PAGE CONTENT:
+Six-panel combat page inside automated mega-kitchen.
+Panel 1: Robotic pizza arms unfold like weapons.
+Panel 2: Gardes Crust surround Nox and Lina.
+Panel 3: Nox deflects an electric baton with a metal pizza peel.
+Panel 4: Lina reroutes sauce pipes into a neon blast.
+Panel 5: Slice dodges lasers carrying the AI core.
+Panel 6: Nox shouts toward the central oven.
+
+TEXT TO RENDER:
+Garde Crust: "Remettez le noyau."
+Nox: "Pas a des gens qui volent la faim."
+Lina: "Sauce piquante, niveau illegal !"
+SFX: "SHRAAAK"
+Nox: "Slice, maintenant !"
+Page number: "8"
+
+LAYOUT:
+High energy, saturated neon sauce effects, angled panels, readable action SFX, characters consistent.

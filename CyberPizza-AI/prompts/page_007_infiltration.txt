@@ -1,0 +1,29 @@
+Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.
+
+This is page 7 of a 10-page color manga. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+RECURRING ELEMENTS:
+- Nox: same design as registry, now wearing a stolen black delivery cap.
+- Lina Byte: same design as registry.
+- Slice: hidden as a serving drone.
+- Synapse Crust tower: corporate restaurant skyscraper, sterile red neon.
+
+PAGE CONTENT:
+Five-panel stealth page.
+Panel 1: Giant Synapse Crust tower shaped like stacked restaurant floors.
+Panel 2: Nox and Lina enter disguised as delivery staff.
+Panel 3: Lina hacks a menu terminal with a grin.
+Panel 4: Slice pretends to serve pizza to security cameras.
+Panel 5: Elevator doors open onto a forbidden kitchen-lab.
+
+TEXT TO RENDER:
+Lina: "Plan simple : on entre, on branche l'IA, on repart vivants."
+Nox: "Tu appelles ca simple ?"
+Slice: "Je suis un plateau innocent."
+Terminal: "ACCES CUISINE MERE"
+Page number: "7"
+
+LAYOUT:
+Corporate red lighting contrasted with cyan shadows. Speech bubbles readable, comedy timing in Slice panel.

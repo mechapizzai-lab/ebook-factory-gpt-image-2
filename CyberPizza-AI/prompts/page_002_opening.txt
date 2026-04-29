@@ -1,0 +1,28 @@
+Full-page color manga book page, 1600x2560 pixels, cyberpunk neon noir style, consistent art style throughout, sharp manga line art, cinematic magenta and cyan lighting, deep blacks, electric pink highlights, detailed futuristic city backgrounds, readable French dialogue inside manga speech bubbles, professional KDP fixed-layout page quality, the image IS the entire page and all text is part of the image. Use clean typography, large readable lettering, safe margins, no external text layer.
+
+This is page 2 of a 10-page color manga. The image IS the entire book page.
+Page dimensions: 1600x2560 pixels.
+All text must be in French.
+
+RECURRING ELEMENTS:
+- Nox: same design as registry.
+- Neo-Marseille: rainy neon cyberpunk alleys.
+- CyberPizza AI core: small pink holographic crystalline pizza slice.
+
+PAGE CONTENT:
+Five-panel dynamic manga page, right-to-left reading flow.
+Panel 1: Wide shot of rainy Neo-Marseille alley, delivery signs flicker.
+Panel 2: Close-up of Nox's pink eye reflected in rain.
+Panel 3: Nox holds a sealed pizza box emitting pink digital steam.
+Panel 4: The AI core whispers from inside the delivery bag.
+Panel 5: Nox stops under a broken neon sign, tense.
+
+TEXT TO RENDER:
+Caption: "Neo-Marseille, 03 h 12."
+Nox: "Encore une livraison sans nom..."
+CyberPizza AI: "Nox... ne me livre pas."
+SFX: "VZZT"
+Page number: "2"
+
+LAYOUT:
+Use dramatic panel borders, rain streaks crossing panels, speech bubbles large and readable. Caption in top panel. Page number small at bottom.
