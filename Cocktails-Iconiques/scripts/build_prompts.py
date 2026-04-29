@@ -34,17 +34,22 @@ PAGE CONTENT:
 A gorgeous but achievable cocktail recipe page for "{recipe['name']}".
 The cocktail must look delicious, iconic, and easy to make at home.
 Hero photo: {recipe['visual']}.
-Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, simple method block, small easy tip badge, elegant page number.
+Use the same visual system as every recipe: large hero cocktail image, clean ingredient block, visual step-by-step strip, small easy tip badge, elegant page number.
+The page must visually show exactly how to make the cocktail with four clear illustrated step panels:
+Step visual 1: show the ingredients and tools being placed on the counter.
+Step visual 2: show the key mixing action for this recipe.
+Step visual 3: show pouring, straining, topping, or building the drink in the glass.
+Step visual 4: show the garnish and finished cocktail ready to serve.
 
 TEXT TO RENDER EXACTLY:
 Title: "{recipe['name']}"
 Tagline: "{recipe['tagline']}"
 Verre: "{recipe['glass']}"
 
-INGRÉDIENTS
+INGREDIENTS
 {ingredients}
 
-MÉTHODE
+METHODE
 {steps}
 
 GARNITURE
@@ -56,11 +61,12 @@ ASTUCE FACILE
 Page number: "{page_number}"
 
 LAYOUT:
-Top third: large appetizing cocktail hero image, glass centered with beautiful garnish.
-Middle: recipe title and tagline with elegant readable typography.
-Bottom half: two clean panels, "INGRÉDIENTS" on the left and "MÉTHODE" on the right, with "ASTUCE FACILE" as a small highlighted note near the bottom.
+Top: recipe title, tagline, glass type, and a large appetizing finished cocktail hero image.
+Middle: clean "INGREDIENTS" panel with all ingredients.
+Lower half: four numbered visual step panels, each with a small illustration and the matching method sentence. The reader must understand the recipe by looking at the images.
+Bottom: "GARNITURE" and "ASTUCE FACILE" as small highlighted notes.
 Typography must be large, readable, and consistent across pages.
-No clutter, no tiny text, no watermark, no extra logos.
+No clutter, no tiny text, no watermark, no extra logos. Every step illustration must be concrete and instructional, not decorative.
 """
 
 

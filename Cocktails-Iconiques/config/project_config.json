@@ -11,9 +11,9 @@
     "height": 2560,
     "aspect_ratio": "10:16 portrait"
   },
-  "visual_style": "photographie editoriale de cocktails, lumineux, premium mais accessible, fond bar moderne, typographie elegante, mise en page claire",
-  "style_anchor": "Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and simple steps, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.",
-  "tone": "stylé, simple, faisable à la maison, donnant envie sans paraître compliqué",
+  "visual_style": "photographie editoriale de cocktails, lumineux, premium mais accessible, fond bar moderne, typographie elegante, mise en page claire, étapes visuelles pas-à-pas",
+  "style_anchor": "Full-page cocktail recipe book page, 1600x2560 pixels, editorial premium cocktail photography style, consistent art direction throughout, bright appetizing drinks, glossy glassware, fresh garnishes, subtle modern bar background, warm highlights, deep contrast, elegant French typography, readable ingredient cards and visual step-by-step panels, professional KDP fixed-layout page quality. The image IS the entire page and all text is part of the image. Keep generous safe margins, clear hierarchy, accessible home-bartender tone, no external text layer.",
+  "tone": "stylé, simple, faisable à la maison, donnant envie sans paraître compliqué, avec toutes les étapes visibles",
   "source_note": "Selection inspiree des cocktails classiques et contemporains reconnus, notamment la liste officielle IBA.",
   "responsibility_note": "A consommer avec moderation. Recettes reservees aux adultes."
 }

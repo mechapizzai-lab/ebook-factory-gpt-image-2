@@ -19,6 +19,7 @@ Style constant sur toutes les recettes:
 - fond de bar moderne, propre, legerement floute
 - typographie elegante mais tres lisible
 - blocs simples: ingredients, methode, astuce facile
+- mini-panneaux visuels pas-a-pas pour montrer exactement les gestes
 - ambiance accessible, pas laboratoire de mixologie
 
 ## Structure
