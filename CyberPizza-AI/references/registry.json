@@ -25,14 +25,14 @@
       "id": "slice",
       "name": "Slice",
       "role": "drone mascotte",
-      "file": "characters/slice_model_sheet.png",
+      "file": "characters/slice_crust_guard_model_sheet.png",
       "description": "Petit drone rond en forme de mini four a pizza, coque chrome et rouge tomate, ecran visage avec yeux expressifs, petites turbines laterales, bras pinces retractables, attitude comique mais loyal."
     },
     {
       "id": "crust_guard",
       "name": "Gardes Crust",
       "role": "ennemis recurrents",
-      "file": "characters/crust_guard_model_sheet.png",
+      "file": "characters/slice_crust_guard_model_sheet.png",
       "description": "Soldats corporatistes anonymes en armure noire brillante, visieres rouges triangulaires, logo de part de pizza stylisee sur l'epaule, matraques electriques, posture rigide et menaçante."
     }
   ],

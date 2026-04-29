@@ -23,8 +23,7 @@ Mini-manga couleur cyberpunk de 10 pages, prepare pour un export KDP ebook en mi
 - `references/characters/nox_model_sheet.png`
 - `references/characters/lina_model_sheet.png`
 - `references/characters/mara_model_sheet.png`
-- `references/characters/slice_model_sheet.png`
-- `references/characters/crust_guard_model_sheet.png`
+- `references/characters/slice_crust_guard_model_sheet.png`
 - `references/locations/neomarseille_reference.png`
 - `references/locations/pizzeria_lab_reference.png`
 - `references/objects/ai_core_reference.png`
